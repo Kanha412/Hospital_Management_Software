@@ -1,5 +1,5 @@
-# Hospital_Management_Project
-<h3><b>A Hospital Management Project Using C++.</b></h3>
+# Hospital_Management_Software
+<h3><b>A Hospital Management Software Using C++.</b></h3>
 <br>
 
 <b>This Project Contains Following Tasks:-</b>
