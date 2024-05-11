@@ -25,3 +25,5 @@
 ![image](https://github.com/Kanha412/Hospital_Management_Project/assets/85762282/e75e21e3-2cec-4902-9a93-d67b971e04f9)
 <br><br>
 ![image](https://github.com/Kanha412/Hospital_Management_Project/assets/85762282/e35c3759-3c8d-483a-9ff4-31c1bcec0c2e)
+<br><br>
+<a href="https://onlinegdb.com/G7Minnb1d" target="_blank" style="text-decoration:none;"><i><b>Try This By Clicking Here</b></i></a>
